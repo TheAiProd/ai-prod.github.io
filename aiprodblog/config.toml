@@ -1,8 +1,0 @@
-baseURL = "https://ai-prod.github.io/"
-languageCode = "en-us"
-title = "AI Prod Blog"
-theme = "hugo-PaperMod"
-
-[params]
-  author = "Your Name"
-  description = "A personal blog about my projects and interests"
